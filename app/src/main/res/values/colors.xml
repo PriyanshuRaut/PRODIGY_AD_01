@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">@color/colorBackground</color>
+    <color name="colorPrimaryDark">@color/colorBackground</color>
+    <color name="colorAccent">@color/colorYellowButton</color>
+    <color name="greennew">#55d394</color>
+    <color name="colorBackground">#202020</color>
+    <color name="colorDarkButtons">#414141</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorLightButtons">#b5b5b5</color>
+    <color name="colorYellowButton">#fe9d12</color>
+    <color name="colorYellow">#FFFF00</color>
+
+
+</resources>
